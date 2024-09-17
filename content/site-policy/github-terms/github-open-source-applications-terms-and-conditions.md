@@ -1,3 +1,4 @@
+![Screenshot_20240917-063630](https://github.com/user-attachments/assets/fac19358-b65c-47c2-b294-351e5aec02dc)
 ---
 title: GitHub Open Source Applications Terms and Conditions
 redirect_from:
